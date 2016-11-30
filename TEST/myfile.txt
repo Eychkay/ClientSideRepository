@@ -1,2 +1,3 @@
 this is a text file, bla bla.
 new line
+new line²
